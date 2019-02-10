@@ -12,4 +12,6 @@ when release dates are plotted against mean tempo and mean instrumentalness. You
 
 [Date x Mean Instrumentalness](https://raw.githubusercontent.com/ElianPangalila/CompMusProject2019/master/date_meaninstru_BEATLES.png)
 
-There's a good chance I will try to find different corpus, because so far nothing interesting about the corpus has come up.
+There's a good chance I will try to find different corpus, because so far nothing interesting about the corpus has come up about this one.
+
+
