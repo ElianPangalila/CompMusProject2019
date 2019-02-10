@@ -9,8 +9,9 @@ Ignoring tracks that have album names that contain the words "Live" or "Remaster
 when release dates are plotted against mean tempo and mean instrumentalness. You might notice there are still release dates in the year 2000's: I forgot about compilation albums.
 
 [Date x Mean Temp](https://raw.githubusercontent.com/ElianPangalila/CompMusProject2019/master/date-meantempo_BEATLES.png)
+
 [Date x Mean Instrumentalness](https://raw.githubusercontent.com/ElianPangalila/CompMusProject2019/master/date_meaninstru_BEATLES.png)
 
-There's a good chance I will try to find different corpus, because so far nothing interesting about the corpus has come up.
+There's a good chance I will try to find different corpus and a different objecive, because so far nothing interesting about this corpus has come up.
 
 
